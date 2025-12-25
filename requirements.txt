@@ -2,3 +2,4 @@ streamlit
 web3
 eth-tester
 py-solc-x
+python-dotenv
